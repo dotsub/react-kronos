@@ -33,7 +33,7 @@
     "days",
     "hours"
   ],
-  "author": "Mario Dennis <mario.dennis@dotsub.com>",
+  "author": "Luke Dubert <dubert@me.com> (http://github.com/dubert)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dotsub/react-kronos/issues"
